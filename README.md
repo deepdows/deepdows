@@ -1,33 +1,55 @@
-Hi 👋 My name is Dmytro
-=======================
+# Hi 👋, I'm Dmytro
 
-Python Backend Developer
-------------------------
+### 🧑‍💻 Python (Odoo) Developer
 
-My education: Master's Degree in 151 Automation and computer-integrated technologies
+---
 
-* 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [deepdows@gmail.com](mailto:deepdows@gmail.com)
+### 🚀 About Me
 
-### Skills
+* 💻 Backend developer focused on **Odoo (Python)**
+* ⚙️ Building business logic, automation & integrations
+* 🧠 Interested in **system design, performance & clean architecture**
+* 🌍 Based in Ukraine
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a>
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,docker,linux,git" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/deepdows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deepdows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/deepdows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### 📊 GitHub Stats
+
+<p>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdows&theme=tokyonight" />
+</p>
+
+### 🔥 Top Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdows&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Projects
+
+* 🧾 **Odoo Custom Modules**
+  → CRM, automation, backend logic
+
+* 🔄 **Integrations**
+  → APIs, external services, data sync
+
+* 📦 **Tools & Scripts**
+  → Python automation & utilities
+
+---
+
+### 🌐 Connect with me
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> <a href="https://linkedin.com/in/dmytro-holovchenko">LinkedIn</a>
+* <img src="https://cdn.simpleicons.org/stackoverflow" width="16"/> <a href="https://stackoverflow.com/users/11802102/deepdows">Stack Overflow</a>
+* <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/google/google-original.svg" width="16"/> [deepdows@gmail.com](mailto:deepdows@gmail.com)
