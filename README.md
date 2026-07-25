@@ -1,55 +1,79 @@
-# Hi 👋, I'm Dmytro
+# Hi, I'm Dmytro Holovchenko 👋
 
-### 🧑‍💻 Python (Odoo) Developer
+### Senior Python Backend Engineer | Odoo ERP Specialist | Business Automation
 
----
+I design and build scalable backend systems, ERP solutions and business automation software using Python.
 
-### 🚀 About Me
-
-* 💻 Backend developer focused on **Odoo (Python)**
-* ⚙️ Building business logic, automation & integrations
-* 🧠 Interested in **system design, performance & clean architecture**
-* 🌍 Based in Ukraine
+Over the past 5+ years I've worked with manufacturing, retail and international clients, helping them automate business processes, integrate external systems and improve the reliability of their software.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I Do
+
+- 🐍 Backend Development with Python
+- 🏢 Odoo ERP Development & Customization
+- 🔌 API Integrations
+- ⚡ Business Process Automation
+- 📊 PostgreSQL Performance Optimization
+- 🏗️ System Architecture
+- ☁️ Linux Deployment
+
+---
+
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,postgres,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git" />
+</p>
+
+### ERP & Backend
+
+- Python
+- Odoo
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- RabbitMQ
+- REST APIs
+
+### Infrastructure
+
+- Docker
+- Linux
+- Nginx
+- Git
+
+---
+
+## 📈 Currently Focusing On
+
+- Clean Architecture
+- ERP Engineering
+- Backend Performance
+- Open Source for Odoo Developers
+- System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdows&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdows&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌍 Connect with Me
 
-<p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdows&theme=tokyonight" />
-</p>
+💼 LinkedIn  
+https://linkedin.com/in/dmytro-holovchenko
 
-### 🔥 Top Languages
+💬 Stack Overflow  
+https://stackoverflow.com/users/11802102/deepdows
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdows&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Projects
-
-* 🧾 **Odoo Custom Modules**
-  → CRM, automation, backend logic
-
-* 🔄 **Integrations**
-  → APIs, external services, data sync
-
-* 📦 **Tools & Scripts**
-  → Python automation & utilities
-
----
-
-### 🌐 Connect with me
-
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> <a href="https://linkedin.com/in/dmytro-holovchenko">LinkedIn</a>
-* <img src="https://cdn.simpleicons.org/stackoverflow" width="16"/> <a href="https://stackoverflow.com/users/11802102/deepdows">Stack Overflow</a>
-* <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/google/google-original.svg" width="16"/> [deepdows@gmail.com](mailto:deepdows@gmail.com)
+📧 Email  
+deepdows@gmail.com
